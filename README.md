@@ -1,6 +1,6 @@
 # FastSweepReinitalisation
-Danny van der Haven, dannyvdhaven@gmail.com
-Last updated: 2022/01/24
+Danny van der Haven, dannyvdhaven@gmail.com,
+last updated: 2022/01/24
 
 This MATLAB code uses the Fast Sweeping method [1] to 
 reinitialise a level set or signed-distance function.
